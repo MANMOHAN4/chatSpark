@@ -1,4 +1,4 @@
-# chatSpark - Gemini Clone 🚀
+# chatSpark ⚡
 
 **chatSpark** is a modern messaging app clone built using **React.js**. This application mimics the functionality and UI of the popular Gemini platform, allowing users to engage in real-time chat and communicate seamlessly.
 

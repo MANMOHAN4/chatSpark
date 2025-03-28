@@ -4,24 +4,26 @@
 
 ## Features 🌟
 
-- **User Authentication**: Sign up and login features (Work in progress) 🔑
 - **Real-time Messaging**: Send and receive messages in real-time using **Socket.io** 💬
-- **Notifications**: Alerts for new messages and updates 🛎️
-- **Profile Customization**: Users can set and customize their avatars and personal profile 🎨
 - **Responsive Design**: Optimized for both desktop and mobile views 📱💻
 - **User-friendly UI**: Clean and intuitive user interface inspired by Gemini ✨
 - **Routing**: Uses **React Router** for navigation between pages 🔄
-- **State Management**: **Redux** is used for managing the app's state efficiently 🔄
+
+### Upcoming Features 🚧
+
+- **User Authentication**: Sign up and login features 🔑 (Planned)
+- **Notifications**: Alerts for new messages and updates 🛎️ (Planned)
+- **Profile Customization**: Users can set and customize their avatars and personal profile 🎨 (Planned)
+- **State Management**: **Redux** for efficient state handling and data management 🔄 (Planned)
+- **Database**: Integration with **Firebase** or **MongoDB** for storing user and message data (Planned)
 
 ## Technologies Used 🛠️
 
 - **React.js**: Frontend framework for building the user interface.
 - **React Router**: Manages routing in the application.
-- **Redux**: State management for efficient data handling and consistent app state.
 - **Socket.io**: For real-time messaging between users.
-- **Firebase** or **MongoDB**: Database for storing user data and messages (work in progress).
-- **CSS/SCSS**: Styling the application and ensuring it's fully responsive.
 - **Vite**: Build tool for fast development and optimized production builds.
+- **CSS/SCSS**: Styling the application and ensuring it's fully responsive.
 - **Node.js**: Backend server to handle requests and real-time communication (if implemented).
 
 ## Getting Started 🏃‍♂️

@@ -7,7 +7,6 @@
 - **Real-time Messaging**: Send and receive messages in real-time using **Socket.io** 💬
 - **Responsive Design**: Optimized for both desktop and mobile views 📱💻
 - **User-friendly UI**: Clean and intuitive user interface inspired by Gemini ✨
-- **Routing**: Uses **React Router** for navigation between pages 🔄
 
 ### Upcoming Features 🚧
 
